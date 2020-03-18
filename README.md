@@ -18,11 +18,6 @@
     <img src="/mvp-app/public/img/edit-product.png">
 </p>
 
-### Edição
-<p align="center">
-    <img src="/mvp-app/public/img/edit-product.png">
-</p>
-
 ### Exclusão
 <p align="center">
     <img src="/mvp-app/public/img/delete-product.png">
