@@ -6,7 +6,7 @@
                 <v-container fluid grid-list-md>
                     <v-hover>
                         <v-card class="responsivo" slot-scope="{ hover }">
-                            <v-img src="https://cdn.vuetifyjs.com/images/lists/ali.png" height="300px">
+                            <v-img src="https://www.hypeness.com.br/wp-content/uploads/2018/11/charles-eames-tokstok-2.png" height="300px">
                                 <v-expand-transition>
                                     <div
                                             v-if="hover"
