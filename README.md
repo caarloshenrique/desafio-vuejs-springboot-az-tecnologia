@@ -1,7 +1,7 @@
 # desafio-vuejs-springboot-AZTecnologia
 :wrench: Esse projeto foi um estudo sobre Vue.js e SpringBoot realizado para o desenvolvimento de uma aplicação de gerenciamento de produtos.
 
-## Interfaces
+## Interfaces 💻
 
 ### Cadastro
 <p align="center">
@@ -23,3 +23,6 @@
     <img src="/mvp-app/public/img/delete-product.png">
 </p>
 
+## Licença 📄
+
+[MIT](/LICENSE) &copy; Carlos Henrique da Costa Silva
