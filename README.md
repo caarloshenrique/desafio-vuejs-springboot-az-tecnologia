@@ -18,7 +18,7 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [Stylus](https://stylus-lang.com/)
 {...}
 
-## Interfaces 💻
+## :computer: Interfaces 
 
 ### Cadastro
 <p align="center">
