@@ -1,6 +1,23 @@
 # desafio-vuejs-springboot-AZTecnologia
 :wrench: Esse projeto foi um estudo sobre Vue.js e SpringBoot realizado para o desenvolvimento de uma aplicação de gerenciamento de produtos.
 
+## :rocket: Tecnologias utilizadas
+
+O projeto foi feito utilizando as seguintes tecnologias:
+
+- [PostgreSQL](https://www.postgresql.org/)
+- [Spring Boot](https://spring.io/)
+- [Lombok](https://projectlombok.org/)
+- [VueJS](https://vuejs.org/)
+- [Vue Router](https://router.vuejs.org/)
+- [Vuex](https://vuex.vuejs.org/)
+- [VeeValidate](https://logaretm.github.io/vee-validate/)
+- [Axios](https://github.com/axios/axios)
+- [Lodash](https://lodash.com/)
+- [Vuetify](https://vuetifyjs.com/en/)
+- [Stylus](https://stylus-lang.com/)
+{...}
+
 ## Interfaces 💻
 
 ### Cadastro
