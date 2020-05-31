@@ -20,22 +20,22 @@ O projeto foi feito utilizando as seguintes tecnologias:
 
 ## :computer: Interfaces 
 
-### Cadastro
+### :bust_in_silhouette: Cadastro
 <p align="center">
     <img src="/mvp-app/public/img/register-product.png">
 </p>
 
-### Listagem
+### :page_with_curl: Listagem
 <p align="center">
     <img src="/mvp-app/public/img/list-products.png">
 </p>
 
-### Edição
+### :memo: Edição
 <p align="center">
     <img src="/mvp-app/public/img/edit-product.png">
 </p>
 
-### Exclusão
+### :x: Exclusão
 <p align="center">
     <img src="/mvp-app/public/img/delete-product.png">
 </p>
