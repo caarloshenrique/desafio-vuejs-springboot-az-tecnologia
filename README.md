@@ -46,7 +46,7 @@ O projeto foi feito utilizando as seguintes tecnologias:
 
 ### :bug: Back-end
 #### Execução
-Execute a classe `BackendApplication` localizada em ``mvp-api/src/main/java/com/produtos/backend/BackendApplication.java`
+Execute a classe `BackendApplication` localizada em `mvp-api/src/main/java/com/produtos/backend/BackendApplication.java`
 
 ### :cyclone: Front-end
 #### Configuração
