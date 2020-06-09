@@ -40,6 +40,20 @@ O projeto foi feito utilizando as seguintes tecnologias:
     <img src="/mvp-app/public/img/delete-product.png">
 </p>
 
+## :fire: Instalação e execução
+
+### :cyclone: Front-end
+#### Configuração
+
+```
+$ cd mvp-app
+$ npm install
+```
+#### Execução
+```
+$ npm run serve
+```
+
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
 
