@@ -42,8 +42,6 @@ O projeto foi feito utilizando as seguintes tecnologias:
 
 ## :fire: Instalação e execução
 
-## :fire: Executando a aplicação
-
 ### :bug: Back-end
 #### Execução
 Execute a classe `BackendApplication` localizada em `mvp-api/src/main/java/com/produtos/backend/BackendApplication.java`
