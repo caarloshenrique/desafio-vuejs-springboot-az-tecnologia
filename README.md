@@ -40,6 +40,13 @@ O projeto foi feito utilizando as seguintes tecnologias:
     <img src="/mvp-app/public/img/delete-product.png">
 </p>
 
+## :clipboard: Pré-requisitos
+
+- [NodeJS LTS (ou superior)](https://nodejs.org/en/)
+- [Vue CLI](https://github.com/vuejs/vue-cli)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Java 8](https://www.java.com/pt_BR/download/)
+
 ## :fire: Instalação e execução
 
 ### :bug: Back-end
