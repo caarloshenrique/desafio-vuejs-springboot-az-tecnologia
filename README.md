@@ -1,4 +1,4 @@
-# desafio-vuejs-springboot-AZTecnologia
+# desafio-vuejs-springboot-az-tecnologia
 :wrench: Esse projeto foi um estudo sobre Vue.js e SpringBoot realizado para o desenvolvimento de uma aplicação de gerenciamento de produtos.
 
 ## :rocket: Tecnologias utilizadas
